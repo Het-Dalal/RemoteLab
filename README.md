@@ -1,4 +1,8 @@
-# RemoteLab - Mobile Kali Administration PoC
+## Project Walkthrough
+
+For a complete screenshot-by-screenshot demonstration of the project:
+
+[View the RemoteLab Walkthrough](RemoteLab_walkthrough.pdf)# RemoteLab - Mobile Kali Administration PoC
 
 RemoteLab is a portfolio project that demonstrates a browser-based command interface for an **authorized Kali Linux lab environment**.
 
